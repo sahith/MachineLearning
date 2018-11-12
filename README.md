@@ -1,7 +1,7 @@
 # MachineLearning
 MachineLearning
 
-
+Implemented this as a part of Machine Learning Course( CS 6375 ) at University of Texas at Dallas(UTD) by Prof. Nicholas Ruozzi
 
 Implemented Different Machine Learning Models like
 
