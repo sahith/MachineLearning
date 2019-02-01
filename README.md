@@ -18,3 +18,4 @@ Implemented Different Machine Learning Models like
 11) Spectral Clustering
 12) Naive Bayes used for Classification
 13) Naive Bayes with Sampling a Probability Distribution
+14) Mixture Models
